@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+div {
+  background-image: url("bg.jpg");
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 50vh;
+}
+
+h3 {
+  margin: 0;
+  background-color: rgb(255, 247, 244);
+  width: 100px;
+  margin: auto;
+  margin-top: -16px;
+  text-align: center;
+  padding: 5px;
+}
